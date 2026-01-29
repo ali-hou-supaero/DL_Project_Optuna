@@ -208,4 +208,5 @@ __marimo__/
 
 
 # Ignore mini-hackathon-data files
-mini-hackathon-data/
+mini-hackathon-data/train.csv
+mini-hackathon-data/test.csv
