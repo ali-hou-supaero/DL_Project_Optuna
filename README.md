@@ -3,7 +3,8 @@ Repository for Optuna code demonstration
 
 # How to run
 To run the code demonstration, you will need to download the data we used in the sdd mini hackathon.
-You can find the data in this Google Drive folder :
+You can find the data in this Google Drive folder : https://drive.google.com/drive/folders/106h8NLhxBq4la_aS8UOWMZ1iu9fthQ5i?usp=drive_link
+
 Once you have downloaded the data, create a `mini-hackathon-data` folder in the root directory of the repository and place the `train.csv` and `test.csv` files inside it.
 
 You should have the following file structure :
